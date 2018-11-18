@@ -1,0 +1,7 @@
+@media only screen and (max-width: 600px) {
+  .contact-list a {
+    width: 100%;
+    display: block;
+    margin-bottom: 24px;
+  }
+}

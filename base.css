@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  position: relative;
+
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+
+  -webkit-tap-highlight-color: transparent;
+
+  font-family: monospace;
+
+  line-height: 1.5;
+}
+
+body {
+  background-color: #9be5f3;
+  color: #1850a5;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+.c-red {
+  color: #E45A5E;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
